@@ -4,7 +4,7 @@
 3. 基本对接了vmrest中可用的API
 
 ### 后续计划（待排期）
-1. 完善面板，实现类似于云控制台的综合管理功能
+1. 完善面板，实现类似于云控制台、vCenter web的管理功能
 
 ### 运行该项目
 1. 首先配置vmrest，需要确保您的vmrest是可用的，本项目不会去自动打开vmrest [查看如何配置vmrest] (https://docs.vmware.com/cn/VMware-Workstation-Pro/16.0/com.vmware.ws.using.doc/GUID-C3361DF5-A4C1-432E-850C-8F60D83E5E2B.html)
