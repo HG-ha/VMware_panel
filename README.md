@@ -9,7 +9,8 @@
 ### 运行该项目
 1. 配置vmrest，需要确保您的vmrest是可用的，本项目不会去自动打开vmrest [查看如何配置vmrest](https://docs.vmware.com/cn/VMware-Workstation-Pro/16.0/com.vmware.ws.using.doc/GUID-C3361DF5-A4C1-432E-850C-8F60D83E5E2B.html)
 2. 以管理员方式运行vmrest（否则没有权限进行虚拟网卡操作）
-3. 安装Python以及模块aiohttp，运行gateway.py脚本，该脚本用于转发前端的请求并校验登录，如果您不想安装Python，您可以下载gateway.zip，解压并运行文件中的gateway.exe即可，这是打包好的Windows程序
+3. 安装Python以及模块aiohttp，运行gateway.py脚本，该脚本用于转发前端的请求并校验登录
+4. 如果您不想安装Python，您可以下载gateway.zip，解压并运行文件中的gateway.exe即可，这是打包好的Windows程序
 5. 直接在浏览器打开template/login.index页面（纯浏览器解析，原生实现）
 6. 开始使用面板吧
 
