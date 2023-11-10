@@ -1,0 +1,1 @@
+start gateway/gateway.exe
